@@ -72,7 +72,6 @@ INDEX VERSION 1.131+C:\Users\Akshay\Desktop\TeamLead1\.metadata\.plugins\org.ecl
 1902742075.index
 1201094130.index
 2960730807.index
-1460909797.index
 428032226.index
 1014024053.index
 188803270.index

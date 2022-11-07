@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-  ${xyz}
+    <h1> ${xyz} </h1>
 </body>
 </html>
